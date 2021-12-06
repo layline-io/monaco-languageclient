@@ -37,7 +37,7 @@ const common = {
     },
     resolve: {
         alias: {
-            'vscode': require.resolve('@codingame/monaco-languageclient/lib/vscode-compatibility')
+            'vscode': require.resolve('@layline-io/monaco-languageclient/lib/vscode-compatibility')
         },
         extensions: ['.js', '.json', '.ttf']
     }

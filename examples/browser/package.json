@@ -1,9 +1,9 @@
 {
   "private": true,
   "name": "browser-example",
-  "version": "0.18.8",
+  "version": "0.18.5",
   "dependencies": {
-    "@layline-io/monaco-languageclient": "^0.18.8",
+    "@layline-io/monaco-languageclient": "^0.18.5",
     "file-loader": "^4.3.0",
     "vscode-json-languageservice": "^4.1.9",
     "vscode-languageserver-types": "^3.16.0"

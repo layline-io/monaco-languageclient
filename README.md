@@ -1,33 +1,33 @@
 # Monaco language client
-[![Gitpod - Code Now](https://img.shields.io/badge/Gitpod-code%20now-blue.svg?longCache=true)](https://gitpod.io#https://github.com/TypeFox/monaco-languageclient)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true)](https://github.com/TypeFox/monaco-languageclient/labels/help%20wanted)
-[![Build Status](https://travis-ci.org/TypeFox/monaco-languageclient.svg?branch=master)](https://travis-ci.org/TypeFox/monaco-languageclient)
+[![Gitpod - Code Now](https://img.shields.io/badge/Gitpod-code%20now-blue.svg?longCache=true)](https://gitpod.io#https://github.com/layline-io/monaco-languageclient)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true)](https://github.com/layline-io/monaco-languageclient/labels/help%20wanted)
+[![Build Status](https://travis-ci.org/layline-io/monaco-languageclient.svg?branch=master)](https://travis-ci.org/layline-io/monaco-languageclient)
 [![NPM Version](https://img.shields.io/npm/v/monaco-languageclient.svg)](https://www.npmjs.com/package/monaco-languageclient)
 [![NPM Download](https://img.shields.io/npm/dt/monaco-languageclient.svg)](https://www.npmjs.com/package/monaco-languageclient)
 
 [NPM module](https://www.npmjs.com/) to connect [Monaco editor](https://microsoft.github.io/monaco-editor/) with [language servers](https://microsoft.github.io/language-server-protocol/)
 
-- Look at [the example client](https://github.com/TypeFox/monaco-languageclient/blob/master/example/src/client.ts) to learn how to start Monaco language client.
-- Look at [the example express app](https://github.com/TypeFox/monaco-languageclient/blob/master/example/src/server.ts) to learn how to open a web socket with an express app and launch a language server within the current process or as an external process.
-- Look at [the browser example](https://github.com/TypeFox/monaco-languageclient/blob/master/examples/browser/src/client.ts) to learn how to use a language service written in JavaScript in a simple HTML page.
+- Look at [the example client](https://github.com/layline-io/monaco-languageclient/blob/master/example/src/client.ts) to learn how to start Monaco language client.
+- Look at [the example express app](https://github.com/layline-io/monaco-languageclient/blob/master/example/src/server.ts) to learn how to open a web socket with an express app and launch a language server within the current process or as an external process.
+- Look at [the browser example](https://github.com/layline-io/monaco-languageclient/blob/master/examples/browser/src/client.ts) to learn how to use a language service written in JavaScript in a simple HTML page.
 
 Click [here](http://typefox.io/teaching-the-language-server-protocol-to-microsofts-monaco-editor) for a detail explanation how to connect the Monaco editor to your language server.
 
-- [**Getting started**](#getting-started)
-   - [Local dev env](#local-dev-env)
-  - [Gitpod](#gitpod)
-- [**Examples**](#examples)
-  - [Node.js](#nodejs)
-  - [Browser](#browser)
-- [**History**](CHANGELOG.md)
-- [**License**](#license)
+- [Monaco language client](#monaco-language-client)
+  - [Getting started](#getting-started)
+    - [Local dev env](#local-dev-env)
+    - [Gitpod](#gitpod)
+  - [Examples](#examples)
+    - [Node.js](#nodejs)
+    - [Browser](#browser)
+  - [License](#license)
 
 ## Getting started
 
 ### Local dev env
 
 ```bash
-git clone https://github.com/TypeFox/monaco-languageclient.git
+git clone https://github.com/layline-io/monaco-languageclient.git
 cd monaco-languageclient
 yarn
 ```
@@ -36,7 +36,7 @@ yarn
 
 Just start a fresh dev environment in Gitpod.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/TypeFox/monaco-languageclient)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/layline-io/monaco-languageclient)
 
 [Gitpod](https://www.gitpod.io) is a one-click online IDE for GitHub. It is based on [Theia IDE framework](http://www.theia-ide.org) and make use of Monaco and the language server protocol by means of monaco-languageclient.
 
@@ -67,4 +67,4 @@ From CLI:
 After the example has been built, open `monaco-languageclient/examples/browser/lib/index.html` in a browser to open the sample page.
 
 ## License
-[MIT](https://github.com/TypeFox/monaco-languageclient/blob/master/License.txt)
+[MIT](https://github.com/layline-io/monaco-languageclient/blob/master/License.txt)

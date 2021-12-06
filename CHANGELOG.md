@@ -39,7 +39,9 @@ after:
 ```typescript
 MonacoServices.install(require('monaco-editor-core/esm/vs/platform/commands/common/commands').CommandsRegistry);
 ```
+## [0.19.0] - 2021-12-06
 
+- Forked by layline.io GmbH (https://layline.io)
 ## [0.13.0] - 2020-04-06
 
 - Upgraded to vscode-uri 2.x [741a3df](https://github.com/TypeFox/monaco-languageclient/commit/741a3dfb865eff55c3dcc4a51f74759921d3f2a5)
