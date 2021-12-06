@@ -9,5 +9,10 @@
     "publish": {
       "registry": "https://registry.npmjs.org/"
     }
-  }
+  },
+  "packages": [
+    "client",
+    "example",
+    "examples/browser"
+  ]
 }
