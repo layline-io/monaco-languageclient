@@ -39,5 +39,5 @@
     "devDependencies": {
         "@types/glob-to-regexp": "^0.4.0"
     },
-    "gitHead": "5e8dc60936a9965fe67b6578a026bfd70eec3fe6"
+    "gitHead": "36c603b2aa4d8cf886834ea4911721c97879feb9"
 }
