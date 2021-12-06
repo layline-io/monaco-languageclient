@@ -1,6 +1,6 @@
 {
     "name": "@layline-io/monaco-languageclient",
-    "version": "0.18.3",
+    "version": "0.18.4",
     "description": "Monaco Language client implementation",
     "author": "TypeFox GmbH (http://www.typefox.io) --> Forked by layline.io (https://layline.io)",
     "license": "MIT",

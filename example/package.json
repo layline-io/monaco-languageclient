@@ -1,10 +1,10 @@
 {
   "private": true,
   "name": "node-example",
-  "version": "0.18.3",
+  "version": "0.18.4",
   "dependencies": {
     "@codingame/monaco-jsonrpc": "^0.3.1",
-    "@layline-io/monaco-languageclient": "^0.18.3",
+    "@layline-io/monaco-languageclient": "^0.18.4",
     "express": "^4.15.2",
     "file-loader": "^4.3.0",
     "monaco-editor-core": "^0.30.1",
