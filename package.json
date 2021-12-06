@@ -33,5 +33,5 @@
     "example",
     "examples/browser"
   ],
-  "name": "monaco-languageclient"
+  "name": "@layline-io/monaco-languageclient"
 }
