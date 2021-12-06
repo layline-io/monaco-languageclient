@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "browser-example",
-  "version": "0.18.0",
+  "version": "0.13.0",
   "dependencies": {
     "file-loader": "^4.3.0",
     "@codingame/monaco-languageclient": "^0.17.0",
